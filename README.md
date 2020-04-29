@@ -23,6 +23,14 @@
 
 Nesse desafio, foi criado uma aplicação para armazenar repositórios, que permite a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
+Para executar o projeto basta dar um `git clone https://github.com/tiagofsv95/desafio-conceitos-node.git` no seu console e depois `yarn` para instalar as dependencias. Depois de instalar todas as dependencias basta executar `yarn dev`.
+
+## Ferramentas utilizadas na aplicação
+
+-**express**;
+-**uuidv4**;
+-**nodemon (Desenvolvimento)**;
+
 ### Rotas da aplicação
 
 O aplicativo possui as sequintes rotas
