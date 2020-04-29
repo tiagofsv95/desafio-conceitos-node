@@ -28,7 +28,9 @@ Para executar o projeto basta dar um `git clone https://github.com/tiagofsv95/de
 ## Ferramentas utilizadas na aplicação
 
 -**express**;
+
 -**uuidv4**;
+
 -**nodemon (Desenvolvimento)**;
 
 ### Rotas da aplicação
